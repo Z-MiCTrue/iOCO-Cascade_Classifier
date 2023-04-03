@@ -8,4 +8,5 @@ This is a script that helps complete the parameter configuration and training of
 4. Run the 'train.py'
 5. Check the result by 'test.py' in folder 'xml'
 
-For more information please visit the blog: http://t.csdn.cn/y3d7l
+## More instructions
+For more information please visit the blog: <http://t.csdn.cn/y3d7l>
