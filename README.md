@@ -1,6 +1,6 @@
 # iOCO-Cascade_Classifier
 This is a script that helps complete the parameter configuration and training of OpenCV cascade classifiers with once click, simplifying program invocation and configuration.
-<img src="./figures/process.png" style="zoom:50%;" />
+<img src="./figures/process.png" width="180" />
 
 ## Quick start
 1. Unzip the 'opencv_world320' and 'opencv_world320d' in the folder cause they are too big to upload without zipping
@@ -13,7 +13,7 @@ This is a script that helps complete the parameter configuration and training of
 - Some parameters are explained as follows:
 <img src="./figures/parameters_description.png" style="zoom:75%;" />
 - An example of the detection results:
-<img src="./figures/result.png" style="zoom:43%;" />
+<img src="./figures/result.png" width="180" />
 
 ## More instructions
 For more information please visit the blog: <http://t.csdn.cn/y3d7l>
