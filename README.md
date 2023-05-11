@@ -1,6 +1,6 @@
 # iOCO-Cascade_Classifier
 This is a script that helps complete the parameter configuration and training of OpenCV cascade classifiers with once click, simplifying program invocation and configuration.
----
+
 <img src="./figures/process.png" width="480" />
 
 ## Quick start
@@ -13,6 +13,7 @@ This is a script that helps complete the parameter configuration and training of
 ## Some other statements
 - Some parameters are explained as follows:
 <img src="./figures/parameters_description.png" width="640" />
+
 - An example of the detection results:
 <img src="./figures/result.png" width="280" />
 
