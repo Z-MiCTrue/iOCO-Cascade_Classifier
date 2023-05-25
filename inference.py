@@ -5,7 +5,6 @@ import cv2
 class Static_detection:
     def __init__(self):
         self.classifier = cv2.CascadeClassifier('cascade.xml')
-        self.img = None
 
     def detect(self, img, draw_box=False):
         loc = []
@@ -28,6 +27,7 @@ class Static_detection:
 
 if __name__ == '__main__':
     eagle_eye = Static_detection()
+
     frame = cv2.imread('test.jpg', 1)
     # frame = cv2.resize(frame, None, fx=1/10, fy=1/10, interpolation=cv2.INTER_AREA)
     eagle_eye.detect(frame, draw_box=True)
