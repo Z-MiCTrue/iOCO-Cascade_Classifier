@@ -4,7 +4,7 @@ This is a script that helps complete the parameter configuration and training of
 <img src="./figures/process.png" width="480" />
 
 ## Quick start
-1. Unzip the 'opencv_world320' and 'opencv_world320d' in the folder cause they are too big to upload without zipping
+1. Place the OpenCV cascading trainer files in the directory `opencv_ toolkit`
 2. Place positive and negative samples in the 'pos' and 'neg' folders
 3. Modify the parameters in the 'options.py'
 4. Run the 'train.py'
