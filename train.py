@@ -77,7 +77,6 @@ class train_xml:
 if __name__ == '__main__':
     parameters = Parameters()
     worker = train_xml(parameters)
-    os.chdir(worker.work_path)
 
     worker.generate_txt()
     worker.start_train(batch_size=36)
