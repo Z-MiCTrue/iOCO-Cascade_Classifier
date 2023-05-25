@@ -6,8 +6,8 @@ This is a script that helps complete the parameter configuration and training of
 ## Quick start
 1. Place the OpenCV cascading trainer files in the directory `opencv_ toolkit`
 2. Place positive and negative samples in the `dataset/pos` and `dataset/neg` folders
-3. Modify the parameters in the 'options.py'
-4. Run the 'train.py'
+3. Modify the parameters in the `options.py`
+4. Run the `train.py`
 5. Check the result by `inference.py`
 
 ## Some other statements
